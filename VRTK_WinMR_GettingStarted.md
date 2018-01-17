@@ -1,10 +1,10 @@
 
-#VRTK
+# VRTK
 
 VRTK is a VR Toolkit for rapidly building VR solutions in Unity3d. [http://vrtk.io](http://vrtk.io "http://vrtk.io").   
 It has platform agnostic implementations of different motion controller interactions and patterns that work across many VR SDKs.   
 
-##Platforms/SDKs supported: 
+## Platforms/SDKs supported: 
 **SteamVR, Oculus Rift, Daydream, and Ximmerse** are supported in the  main repo [(https://github.com/thestonefox/VRTK)](https://github.com/thestonefox/VRTK).   
 
 ***Windows Mixed Reality***   
@@ -25,7 +25,7 @@ _With both of these repos, pay attention to the specific branch._
 The main repo links to a simple [Getting Started](https://github.com/thestonefox/VRTK/blob/master/GETTING_STARTED.md) that shows you how to bootstrap a platform.  The below (Windows MR specific) getting started and give you a detailed introduction to bootstrapping platform, and from there on looking at the rich plethora of samples in the toolkit shall be all you need.   
 
 
-##Windows MR getting started walkthrough  (~15-20 mins) 
+## Windows MR getting started walkthrough  (~15-20 mins) 
 1. Clone the windows-mixed-reality-refactoring from Innoactive's VRTK fork  
 	**git clone https://github.com/Innoactive/IA-unity-VR-toolkit-VRTK --branch feature/windows-mixed-reality-refactoring**
 
