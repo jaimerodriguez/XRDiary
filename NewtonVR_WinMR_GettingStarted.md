@@ -85,7 +85,7 @@ Creating a new scene is as easy as running the previous example, but let's still
 
 	![](./images/newtonvr/cleanscene_cube.png)  
 4. Add a floor to our scene 
-	1. **GameObject->3D Objec->Plane** 
+	1. **GameObject->3D Object ->Plane** 
 	2. **Set the plane's Mesh Renderer material to something nice, like the appleMat1 from NewtonVR**  
 	
 	![](./images/newtonvr/cleanscene_plane.png)  
